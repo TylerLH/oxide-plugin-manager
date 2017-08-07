@@ -8,6 +8,9 @@ yarn-error.log*
 # Ignore any plugins in working directory
 *.cs
 
+# Ignore any generated manifests
+opm-manifest.json
+
 # Runtime data
 pids
 *.pid
