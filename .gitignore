@@ -7,6 +7,9 @@ yarn-error.log*
 
 # Ignore any plugins in working directory
 *.cs
+plugins/
+
+.DS_Store
 
 # Ignore any generated manifests
 opm-manifest.json
